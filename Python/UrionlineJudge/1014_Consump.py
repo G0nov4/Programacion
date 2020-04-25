@@ -1,0 +1,1 @@
+print('%.3f'%(int(input())/float(input())),'km/l')
